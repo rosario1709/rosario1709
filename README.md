@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Carmen del Rosario — Desarrollo web, Web3 y hackatones" width="100%" />
+  <img src="assets/banner.svg" alt="Carmen del Rosario Muñoz Guerrero — Desarrollo web, Web3 y hackatones" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-### 👋 Hola, soy Carmen del Rosario
+### 👋 Hola, soy Carmen del Rosario Muñoz Guerrero
 
 Trabajo en proyectos que combinan **desarrollo web, blockchain y agentes de inteligencia artificial**. Me interesa convertir ideas complejas en prototipos que se puedan entender, probar y mejorar.
 
