@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="350" viewBox="0 0 1280 350" role="img" aria-labelledby="title desc">
+  <title id="title">Carmen del Rosario</title>
+  <desc id="desc">Portada en azul y violeta: desarrollo web, Web3 y hackatones.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111326"/><stop offset=".55" stop-color="#161230"/><stop offset="1" stop-color="#102536"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8B5CF6" stop-opacity=".27"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#97A2C4" stroke-opacity=".055"/></pattern>
+    <clipPath id="round"><rect width="1280" height="350" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="350" fill="url(#bg)"/>
+    <rect width="1280" height="350" fill="url(#grid)"/>
+    <ellipse cx="1010" cy="153" rx="400" ry="330" fill="url(#glow)"/>
+    <path d="M0 346H1280" stroke="url(#stroke)" stroke-width="8"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="56" y="40" width="159" height="30" rx="15" fill="#262142" stroke="#7C65B9" stroke-opacity=".4"/>
+      <circle cx="74" cy="55" r="4" fill="#67E8F9"/>
+      <text x="89" y="60" fill="#D5D0EC" font-size="13" font-weight="600" letter-spacing="1">@rosario1709</text>
+      <text x="56" y="149" fill="#F4F3FF" font-size="55" font-weight="700" letter-spacing="-1.8">Carmen del Rosario</text>
+      <text x="57" y="195" fill="#C2BEDC" font-size="26">De las ideas al código.</text>
+      <text x="58" y="249" fill="#A78BFA" font-size="14" font-weight="700" letter-spacing="2">DESARROLLO WEB</text>
+      <circle cx="238" cy="244" r="2.5" fill="#6F6A91"/>
+      <text x="254" y="249" fill="#A78BFA" font-size="14" font-weight="700" letter-spacing="2">WEB3</text>
+      <circle cx="327" cy="244" r="2.5" fill="#6F6A91"/>
+      <text x="343" y="249" fill="#A78BFA" font-size="14" font-weight="700" letter-spacing="2">HACKATONES</text>
+      <text x="58" y="310" fill="#8586A4" font-size="12" letter-spacing="3">CREAR / APRENDER / COMPARTIR</text>
+      <text x="1217" y="310" fill="#8586A4" font-size="12" letter-spacing="2" text-anchor="end">IDEAS EN MOVIMIENTO</text>
+    </g>
+    <g transform="translate(1036 156)">
+      <ellipse rx="137" ry="58" fill="none" stroke="#A78BFA" stroke-opacity=".35" stroke-width="1.3" transform="rotate(-30)"/>
+      <ellipse rx="138" ry="74" fill="none" stroke="#67E8F9" stroke-opacity=".22" stroke-width="1.3" transform="rotate(28)"/>
+      <circle r="92" fill="none" stroke="#8993B5" stroke-opacity=".14" stroke-dasharray="2 9"/>
+      <rect x="-68" y="-59" width="136" height="118" rx="24" fill="#1F2240" stroke="url(#stroke)" stroke-opacity=".65"/>
+      <path d="M-36 -7L-53 8L-36 23M36 -7L53 8L36 23M10 -18L-9 35" fill="none" stroke="url(#stroke)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-104" cy="64" r="8" fill="#A78BFA"/><circle cx="112" cy="-59" r="6" fill="#67E8F9"/>
+      <circle cx="-126" cy="-41" r="3" fill="#F4F3FF"/><circle cx="101" cy="86" r="3" fill="#A78BFA"/>
+      <path d="M-104 54V74M-114 64H-94" stroke="#F0EBFF" stroke-width="1.4"/>
+    </g>
+  </g>
+</svg>

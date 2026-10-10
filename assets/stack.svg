@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="112" viewBox="0 0 1280 112" role="img" aria-labelledby="title desc">
+  <title id="title">Tecnologías de los proyectos</title><desc id="desc">TypeScript, Next.js, Node.js, PostgreSQL, Solana y BNB Chain.</desc>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">
+    <rect x="0" y="16" width="202" height="80" rx="16" fill="#151C2B" stroke="#314567"/>
+    <rect x="17" y="39" width="34" height="34" rx="7" fill="#3178C6"/><text x="34" y="62" text-anchor="middle" fill="white" font-size="16" font-weight="700">TS</text>
+    <text x="65" y="63" fill="#E6EDF3">TypeScript</text>
+    <rect x="215" y="16" width="202" height="80" rx="16" fill="#171A25" stroke="#34384B"/>
+    <circle cx="249" cy="56" r="17" fill="#E6EDF3"/><text x="249" y="62" text-anchor="middle" fill="#151722" font-size="17" font-weight="700">N</text>
+    <text x="280" y="63" fill="#E6EDF3">Next.js</text>
+    <rect x="430" y="16" width="202" height="80" rx="16" fill="#13221E" stroke="#2D4C40"/>
+    <path d="M464 37L481 47V65L464 75L447 65V47Z" fill="#5FA04E"/><text x="464" y="62" text-anchor="middle" fill="white" font-size="14">JS</text>
+    <text x="495" y="63" fill="#E6EDF3">Node.js</text>
+    <rect x="645" y="16" width="202" height="80" rx="16" fill="#16202E" stroke="#31486A"/>
+    <circle cx="679" cy="56" r="17" fill="#4169A1"/><text x="679" y="62" text-anchor="middle" fill="white" font-size="13">PG</text>
+    <text x="710" y="63" fill="#E6EDF3" font-size="17">PostgreSQL</text>
+    <rect x="860" y="16" width="202" height="80" rx="16" fill="#1D182E" stroke="#43325F"/>
+    <g transform="translate(877 42)"><path d="M5 0H33L28 7H0Z" fill="#67E8F9"/><path d="M0 11H28L33 18H5Z" fill="#B69DFA"/><path d="M5 22H33L28 29H0Z" fill="#A78BFA"/></g>
+    <text x="925" y="63" fill="#E6EDF3">Solana</text>
+    <rect x="1075" y="16" width="205" height="80" rx="16" fill="#232019" stroke="#5E4D27"/>
+    <g transform="translate(1109 56)" fill="#E8BF62"><path d="M0 -18L8 -10L0 -2L-8 -10ZM0 2L8 10L0 18L-8 10ZM-10 -8L-2 0L-10 8L-18 0ZM10 -8L18 0L10 8L2 0Z"/></g>
+    <text x="1140" y="63" fill="#E6EDF3">BNB Chain</text>
+  </g>
+</svg>
